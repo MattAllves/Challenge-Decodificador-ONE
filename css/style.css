@@ -79,6 +79,8 @@
 
   .titulo {
         font-family: 'Matrix', sans-serif;
+        src: url('../font/matrix.ttf') format('ttf'),
+        url('../font/matrix.ttf') format('truetype'),    
         text-align: center;
         font-size: 31px;
         color:black;
