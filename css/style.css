@@ -1,3 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/matrix');
 * {
     margin: 0;
     padding: 0;
@@ -13,17 +14,6 @@
     height: auto;
   }
   
-  
-  
-  .titulo {
-    background-color: rgba(0, 255, 13, 0.671);
-    text-align: center;
-    padding: 10px;
-    width: 25vw;
-    margin-top: center;
-    
-  }
-  
   .main {
     background-size: 100%;
     padding: 200px 0px 180px;
@@ -37,7 +27,7 @@
     box-shadow: 2px 2px 2px 1px rgba(255, 255, 255, 0.2);
     background-color: white;
     border-radius: 0.5em;
-    width: 30vw;
+    width: 45vw;
     height: auto;
   }
   
@@ -72,7 +62,7 @@
   
   .text-input {
     border-radius: 0.5em;
-    border: 1px solid rgba(1, 231, 12, 0.2);
+    border: 1px solid rgba(7, 214, 18, 0.938);
     display: block;
     padding: 0.5em;
     width: 100%;
@@ -88,7 +78,18 @@
   }
 
   .titulo {
-        font-family: "Matrix", sans-serif;
+        font-family: 'Matrix', sans-serif;
+        text-align: center;
+        font-size: 31px;
+        color:black;
         font-weight: bold;
         font-style: normal;
+        background-color: rgba(0, 255, 13, 0.671);
+        padding: 10px;
+        width: center;
+        margin-top: auto;
+        text-align: center;
+        padding: 5px;
+        width: center;
+        margin-top: auto;   
   }

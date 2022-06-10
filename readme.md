@@ -2,7 +2,7 @@
 
 Olá esse é um projeto do programa ONE - Oracle Next Education.
 
-<img src="../challenge/imagens/decodificadorprojeto.jpg"/>
+<img src="../challenge/imagens/decodificadorprojeto.png"/>
 
 #challengeonedecodificador2
   
